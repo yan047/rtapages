@@ -1,6 +1,6 @@
 Failed to run storybook with tailwind3, even with storybook/postcss-addon
 # Create React App
-npx create-react-app beecroft --template typescript
+npx create-react-app webapp1 --template typescript
 
 npm install
 
